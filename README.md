@@ -1,5 +1,5 @@
 ### Hi there 👋
-Back-end개발자 김가영입니다.
+Back-end 개발자 김가영입니다.
 
 <!--
 **rkdud567/rkdud567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
