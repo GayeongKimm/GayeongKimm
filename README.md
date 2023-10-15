@@ -1,7 +1,7 @@
 ### Hi there 👋
 #Back-end Developer
 
- Platforms & Languages
+ <!--Platforms & Languages
  
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring BOot&logoColor=white"/>
 
