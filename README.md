@@ -1,5 +1,8 @@
 ### Hi there 👋
-Back-end 개발자 김가영입니다.
+#Back-end Developer
+
+ Platforms & Languages
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring BOot&logoColor=white"/>
 
 <!--
 **rkdud567/rkdud567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
