@@ -2,7 +2,7 @@
 
 <br>
 
-- My portfolio : [Click!]([https://velog.velcdn.com/images/whitebear/post/d7e4c24d-9758-47e3-a641-44ba493e0755/image.pdf](https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4))
+- My portfolio : [Click!]((https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4))
 
 
   
