@@ -2,7 +2,7 @@
 
 <br>
 
-- My portfolio : [Click!]([(https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4)](https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4))
+- My portfolio : [Click!](https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4)
 
 
   
