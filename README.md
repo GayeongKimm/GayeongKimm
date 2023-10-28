@@ -1,6 +1,11 @@
-### Hi there 👋
-#Back-end Developer
+### Hi, I'm GayeongKim👋
 
+<br>
+
+- My portfolio : [Click!]([https://velog.velcdn.com/images/whitebear/post/d7e4c24d-9758-47e3-a641-44ba493e0755/image.pdf](https://scarlet-warrior-a56.notion.site/ce6ac3ca371744899c2927a3c71fffbe?pvs=4))
+
+
+  
 <!--
 **rkdud567/rkdud567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
