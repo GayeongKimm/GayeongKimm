@@ -2,11 +2,12 @@
 
 <br>
 
-- My portfolio : [Click!](https://scarlet-warrior-a56.notion.site/a28e6c40426745eca8a7dda400afdb1d?pvs=4)
 
 
   
 <!--
+ - My portfolio : [Click!](https://scarlet-warrior-a56.notion.site/a28e6c40426745eca8a7dda400afdb1d?pvs=4)
+
 **rkdud567/rkdud567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
